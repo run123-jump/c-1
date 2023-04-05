@@ -1,0 +1,6 @@
+﻿  git仓库.cpp
+D:\visual studio\存档\git仓库\git仓库.cpp(19,6): warning C4215: 使用了非标准扩展: 长浮点
+D:\visual studio\存档\git仓库\git仓库.cpp(22,10): warning C4215: 使用了非标准扩展: 长浮点
+D:\visual studio\存档\git仓库\git仓库.cpp(35,10): warning C4215: 使用了非标准扩展: 长浮点
+D:\visual studio\存档\git仓库\git仓库.cpp(38,21): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+  git仓库.vcxproj -> D:\visual studio\存档\git仓库\x64\Debug\git仓库.exe
